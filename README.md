@@ -1,4 +1,4 @@
-# OnePoint
+## système de réservation de vol avec attribution des places dans un avion
 Le code présenté est un ensemble de classes permettant d'attribuer des sièges dans un avion. 
 
 
@@ -14,11 +14,12 @@ Les méthodes `est_place_disponible`, `attribuer_place`,`liberer_place` et `modi
 
 La méthode `ajouter_passager`  ajoute un nouveau passager à la réservation et attribue une place disponible pour ce passager. La méthode ` modifier_place` permet de modifier la place d'un passager dans la réservation  la méthode  `supprimer_passager` supprime un passager de la réservation et la méthode `imprimer_details_reservation` donne les détails de réservation d'un ou plusieurs passagers.
 
-# Running the project
-le code de ce projet est executable via la ligne de commande
+## Running the project
+le code de ce projet est executable via la ligne de commande.
+
 un menu est disponible pour lancer des instances et tester les méthodes implémentés
 
-# Dependencies
+## Dependencies
 python 3.9
 
 
