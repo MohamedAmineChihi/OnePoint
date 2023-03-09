@@ -1,5 +1,5 @@
-## système de réservation de vol avec attribution des places dans un avion
-Le code présenté est un ensemble de classes permettant d'attribuer des sièges dans un avion. 
+## système de réservation de vol avec attribution des places dans un avion 
+Le code présenté est un ensemble de classes permettant d'attribuer des sièges dans un avion dans le cadre d'un test technique python . 
 
 
 * La classe `Passager` représente un passager avec un nom et un prénom. 
